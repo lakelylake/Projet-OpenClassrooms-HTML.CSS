@@ -34,10 +34,7 @@ em {
     font-style: normal;
   }
 
-div {
-    background-color: white;
-    color: #242424;
-}
+
 
 /* classes */
 
@@ -49,5 +46,11 @@ div {
 .cta {
 background: linear-gradient(#8E86B5, #ACAEED);
 color: white;
+border-radius: 50px;
+}
+
+.carre-contenu {
+border-bottom: 1px #A5B4FC solid;
+border-right: 1px #A5B4FC solid;
 }
 
